@@ -1,2 +1,3 @@
-require('./angular-touch');
-module.exports = 'ngTouch';
+import './angular-touch.js';
+
+export default window.ngTouch;
