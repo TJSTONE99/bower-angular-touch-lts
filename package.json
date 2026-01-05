@@ -1,6 +1,6 @@
 {
   "name": "angular-touch-lts",
-  "version": "1.8.4",
+  "version": "1.8.5",
   "description": "AngularJS Touch LTS (Long Term Support) - AngularJS module for touch events",
   "license": "MIT",
   "author": "Angular Core Team <angular-core+npm@google.com>",
@@ -18,7 +18,7 @@
   ],
   "main": "index.js",
   "peerDependencies": {
-    "angular-lts": "1.8.4"
+    "angular-lts": "1.8.5"
   },
   "jspm": {
     "shim": {
